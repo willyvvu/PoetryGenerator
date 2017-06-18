@@ -1,6 +1,6 @@
 # Poetry Generator
 
-Even though each alphabet of grid-aligned characters is randomly generated, the look and feel of every composition is far from random. In addition to choosing between left-to-right/right-to-left/top-to-bottom reading orders and phonetic vs pictographic character sets, the program generates repetition, stanzas, and even it's own version of "rhyme". Look closely.
+Even though each alphabet of grid-aligned characters is randomly generated, the look and feel of every composition is far from random. In addition to choosing between left-to-right/right-to-left/top-to-bottom reading orders and phonetic vs pictographic character sets, the program generates repetition, stanzas, and even its own version of "rhyme". Look closely.
 
 [View in Browser](https://willy-vvu.github.io/PoetryGenerator/)
 
